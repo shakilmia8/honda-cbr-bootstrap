@@ -1,0 +1,45 @@
+/* banner style */
+.banner-bg{
+    background-color: #264653;
+}
+.btn-color{
+    background-color: #E76F51;
+}
+
+/* Fetured Bikes Style */
+.fetured-color{
+    color: #E76F51;
+}
+.grayscale{
+    filter: grayscale(1);
+    -webkit-filter:grayscale(1);
+}
+
+/* Latest News Style */
+.text{
+    color: #E76F51;
+    border: 1px solid #E76F51;
+}
+.text:hover{
+    background-color: #E76F51;
+    color:#fff;
+}
+
+/* user style */
+.user-text{
+    color: #6C6C6C;
+}
+.filled{
+    color: #FD7E14;
+}
+.text-regina{
+    color: #23A6F0;
+}
+.banker{
+    color: #252B42;
+}
+
+/* footer style */
+.footer-bg{
+    background-color: #0B0D17;
+}
